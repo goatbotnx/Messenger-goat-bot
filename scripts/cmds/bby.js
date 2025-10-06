@@ -169,8 +169,8 @@ module.exports.onChat = async ({
   "😇 Bujhlam, tui flirt kora sikhli amar theke!",
   "🥀 Tui jodi chash hoye jash, ami tor ghum bhenge debo...",
   "👀 Toke dekhe mon chay... daily dekhi!",
-  "🥺amake na deke amr boss ar inbox a nok deo my boss inbox m.me/rocky.top.video.editor",
-  "my owner inbox link m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320",
+  "🥺amake na deke amr boss ar inbox a nok deo my boss inbox id  https://www.facebook.com/nx210.is.back ",
+  "my owner inbox link https://m.me/nx210.is.back ",
 ];
  if (!arr) {
 
