@@ -4,7 +4,7 @@ module.exports = {
  version: "1.0",
  author: "Chitron Bhattacharjee",
  countDown: 45,
- role: 0,
+ role:2,
  shortDescription: "Logout Bot's Account",
  longDescription: "Logout Bot's Account",
  category: "owner",
