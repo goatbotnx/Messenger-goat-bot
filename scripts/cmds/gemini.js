@@ -37,7 +37,7 @@ module.exports = {
  if (err || !thinkingMsg?.messageID) return;
 
  const sendStyledReply = async (text) => {
- const styled = `╭────────────╮\n ▄ 🧠 𝗦𝗵𝗶𝗣𝘂 𝗔𝗜 𝘀𝗮𝗶𝗱:\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\n${text}\n\n──────────────`;
+ const styled = `╭────────────╮\n ▄ 🧠 nx ai said:\n▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄\n\n${text}\n\n──────────────`;
  try {
  await api.unsendMessage(thinkingMsg.messageID);
  } catch {}
