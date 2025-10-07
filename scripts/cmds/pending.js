@@ -54,8 +54,8 @@ onReply: async function({ api, event, Reply, getLang, commandName, prefix }) {
 ╰──────────────⭓
 ╭──────────────⭓
 │➜ 𝐎𝐭𝐡𝐞𝐫 𝐃𝐞𝐭𝐚𝐢𝐥𝐬🦆
-│Owner : Chitron Bhattacharjee 
-│FB : https://www.facebook.com/adirexcb
+│Owner : Mâybê Nx
+│FB : https://www.facebook.com/nx210.is.back 
 ╰──────────────⭓`, Reply.pending[ArYanIndex - 1].threadID);
  count+=1;
  }
