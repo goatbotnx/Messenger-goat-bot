@@ -5,7 +5,7 @@ module.exports = {
 		name: "notification",
 		aliases: ["notify", "noti"],
 		version: "1.7",
-		author: "Chitron Bhattacharjee",
+		author: "Nx",
 		countDown: 5,
 		role: 2,
 		description: {
@@ -31,7 +31,7 @@ module.exports = {
 		},
 		en: {
 			missingMessage: "Please enter the message you want to send to all groups",
-			notification: "my owner inbox link m.me/Bangladesh.Top.Video.Editor.Rocky.Vai.320(my owner Alvee Evan Rocky)",
+			notification: "my owner inbox link https://m.me/nx210.is.back (my owner Mâybê Na)",
 			sendingNotification: "Start sending notification from admin bot to %1 chat groups",
 			sentNotification: "✅ Sent notification to %1 groups successfully",
 			errorSendingNotification: "An error occurred while sending to %1 groups:\n%2"
