@@ -3,7 +3,7 @@ const fs = require('fs-extra');
 
 module.exports = {
   config: {
-    name: "animefy",
+    name: "anime2",
     aliases: [],
     version: "1.0",
     author: "Chitron Bhattacharjee",
